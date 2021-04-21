@@ -1,2 +1,2 @@
 # react
-Stepping through react docs
+Stepping through React docs
